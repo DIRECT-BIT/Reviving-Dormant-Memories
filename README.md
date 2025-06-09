@@ -139,8 +139,6 @@ We propose Rationale-Guidance Difficulty (RGD), which quantifies the difficulty 
 
 **Baselines**
 - **Equal Allocation (EA)**: For each previous task, we replay the same amount of samples while learning a new task.
-- **[InsCL](https://aclanthology.org/2024.naacl-long.37.pdf)**: Dynamically replays previous data based on task similarity, calculated by Wasserstein Distance with instructions.
-  - we use the corresponding LLM as the embedding model.
 
 **Conclusion**
 - **Our method effectively alleviates model forgetting and maintains better model plasticity simultaneously across models**.
