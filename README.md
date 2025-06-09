@@ -1,4 +1,4 @@
-# Investigating Catastrophic Forgetting in Language Models through Rationale-Guidance Difficulty
+# Unveiling and Addressing Pseudo Forgetting in Large Language Models
 
 > "*Memory Is the Scribe of the Soul.*"  
 > —Aristotle: Greek Philosopher
@@ -155,8 +155,8 @@ If you encounter any questions regarding our work, please do not hesitate to sub
 If you find our benchmark or evaluation pipeline useful or interesting, please cite our paper.
 ```
 @misc{sun2024revivingdormantmemoriesinvestigating,
-      title={Reviving Dormant Memories: Investigating Catastrophic Forgetting in Language Models through Rationale-Guidance Difficulty}, 
-      author={Huashan Sun and Yang Gao},
+      title={Unveiling and Addressing Pseudo Forgetting in Large Language Models}, 
+      author={Huashan Sun, Yizhe Yang, Yinghao Li, Jiawei Li and Yang Gao},
       year={2024},
       eprint={2411.11932},
       archivePrefix={arXiv},
